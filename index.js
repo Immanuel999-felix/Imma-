@@ -101,9 +101,9 @@ console.log(chalk.white.bold(`${chalk.gray.bold("📃  Information :")}
 📃  Script : XWRLD-V4-MD
 👑  Author : IMMANUEL FELIX
 ✉️  Gmail : emmanuelfelix829@gmail.com
-✉️  Instagram : ahmmikun
+✉️  Instagram : immanuel.999
 
-${chalk.green.bold("Ｐｏｗｅｒｅｄ Ｂｙ Ｘ Ｗ Ｒ Ｌ Ｄ⁹⁹⁹ ＢＯＴＺ")}\n`));
+${chalk.green.bold("Ｐｏｗｅｒｅｄ Ｂｙ Ｘ Ｗ Ｒ Ｌ Ｄ ＢＯＴＺ")}\n`));
 
 async function startXwrldBot() {
     //------------------------------------------------------
