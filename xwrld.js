@@ -1,3 +1,3 @@
 {
-	"name": "XWRLD V4 MD"
+	"name": "XWRLD V1 MD"
 }                  
